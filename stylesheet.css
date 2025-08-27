@@ -218,7 +218,7 @@
   
     /* Extra small screens: 200px - 320px */
 /* Ultra small screens: up to 200px */
-@media (max-width: 400px) {
+@media (max-width: 700px) {
   header .nav {
     flex-direction: column;   /* brand upar, buttons neeche */
     align-items: left;
@@ -347,3 +347,4 @@
     margin: 6px 0;
   }
 }
+
